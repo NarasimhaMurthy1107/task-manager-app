@@ -9,7 +9,7 @@ A full-stack task manager application built using the MERN stack.
 * Mark tasks as completed
 * Clean and responsive UI
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Frontend: React
 * Backend: Node.js, Express
