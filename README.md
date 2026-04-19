@@ -2,7 +2,7 @@
 
 A full-stack task manager application built using the MERN stack.
 
-#Users can:
+# Users can:
 - Signup & Login
 - Add tasks
 - Delete tasks
